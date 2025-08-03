@@ -23,15 +23,11 @@ It includes:
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-- LocalStorage
-- Git & GitHub
 - Netlify (for deployment)
 
 ---
 
 ## 📸 Screenshot
-
-_Add your screenshot here:_
 
 <img width="1903" height="932" alt="image" src="https://github.com/user-attachments/assets/d52e5225-e67f-4edf-ab44-9d815524dcc4" />
 
